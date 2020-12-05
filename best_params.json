@@ -1,0 +1,1 @@
+{"activation": "elu", "dropout_param_1": 0.543973059037285, "dropout_param_2": 0.7872304473468308, "optimizer": "momentum", "lr": 0.001538680375791941, "weight_decay": 1.4144439883164338e-07}
